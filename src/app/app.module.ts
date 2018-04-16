@@ -8,7 +8,6 @@ import { ListKegsComponent } from './list-kegs/list-kegs.component';
 import { EditKegComponent } from './edit-keg/edit-keg.component';
 import { SellKegComponent } from './sell-keg/sell-keg.component';
 import { NewKegComponent } from './new-keg/new-keg.component';
-import { TestComponent } from './test/test.component';
 
 
 @NgModule({
@@ -18,7 +17,6 @@ import { TestComponent } from './test/test.component';
     EditKegComponent,
     SellKegComponent,
     NewKegComponent,
-    TestComponent
   ],
   imports: [
     BrowserModule,
